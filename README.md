@@ -6,9 +6,7 @@
 Here are some ideas to get you started:
 
 <!-- header -->
-<p align='center'>
-  <img src="ttps://capsule-render.vercel.app/api?type=waving&color=#FFCCFF&fontColor=001035&height=200&section=header&text=안녕하세요 개발자 조민준 GitHub입니다!&fontSize=40"/>
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jominjun1)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 - 🔭 I’m currently working on ...
