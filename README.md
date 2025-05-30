@@ -1,4 +1,7 @@
-## Hi there 👋
+<!-- header -->
+<p align='center'>
+  <img src="ttps://capsule-render.vercel.app/api?type=waving&color=#FFCCFF&fontColor=001035&height=200&section=header&text=안녕하세요 개발자 조민준 GitHub입니다!&fontSize=40"/>
+</p>
 
 <!--
 **Jominjun1/Jominjun1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
