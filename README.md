@@ -7,7 +7,8 @@ Here are some ideas to get you started:
 
 <!-- header -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jominjun1)](https://github.com/anuraghazra/github-readme-stats)
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
