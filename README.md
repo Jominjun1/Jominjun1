@@ -8,8 +8,8 @@ Here are some ideas to get you started:
 <!-- header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
 
-<p>
-  H1. Backend Developer MinJun's GitHub
+<p style="fontSize:20px">
+  Welcome. Backend Developer MinJun's GitHub
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
