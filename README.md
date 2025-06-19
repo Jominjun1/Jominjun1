@@ -83,17 +83,6 @@ graph TD
     D --> H[RESTful APIs]
     E --> I[Technical Writing]
 ```
-<div align="center">
-
-### ☕ Coffee Time!
-> "Life is too short for bad coffee and bad code" ☕
-
-![Coffee](https://img.shields.io/badge/Coffee_Consumed-∞_cups-orange?style=for-the-badge&logo=coffee)
-![Code](https://img.shields.io/badge/Lines_of_Code-∞_lines-blue?style=for-the-badge&logo=code)
-
-**Thanks for visiting! Feel free to reach out for a coffee chat ☕**
-
-</div>
 
 <div align="center">
 <!-- footer -->
