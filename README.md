@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=MinJun's%20GitHub&fontSize=60&fontAlignY=35&desc=Backend%20Developer%20|%20Coffee%20Enthusiast&descAlignY=55&descAlign=60" />
 
 <div align="center">
-  
+
 # 👋 안녕하세요! Backend Developer MinJun입니다
 
 **커피를 마시며 코드를 작성하는 백엔드 개발자** ☕
@@ -52,7 +52,7 @@ public class MinJun {
 ## 📊 GitHub Stats
 
 <div align="center">
-  
+
 ![MinJun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jominjun1&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jominjun1&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E)
@@ -61,25 +61,9 @@ public class MinJun {
 
 </div>
 
-## ☕ Featured Projects
-
-### CoffeeAnalyze - 커피 비교 분석 시스템
-![Vue.js](https://img.shields.io/badge/Vue.js-3.x-4FC08D?style=for-the-badge&logo=vue.js)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.x-6DB33F?style=for-the-badge&logo=spring-boot)
-![MySQL](https://img.shields.io/badge/MySQL-8.0-4479A1?style=for-the-badge&logo=mysql)
-
-> 다양한 커피 브랜드의 메뉴를 비교하고 분석할 수 있는 웹 애플리케이션
-> 
-> - 다중 브랜드 지원 (스타벅스, 메가커피, 빽다방, 이디야 등)
-> - 실시간 영양 정보 비교 분석
-> - JWT 기반 관리자 인증 시스템
-> - Selenium을 활용한 웹 크롤링
-
-[![View Project](https://img.shields.io/badge/View_Project-6DB33F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jominjun1/CoffeeAnalyze)
-
 ## 🎯 Current Focus
 
-- 🔭 **Currently Working On**: CoffeeAnalyze 프로젝트 개선 및 새로운 기능 개발
+- 🔭 **Currently Working On**: Spring Boot 기반 백엔드 시스템 개발
 - 🌱 **Learning**: Spring Cloud, Microservices Architecture, AWS Advanced Services
 - 👯 **Looking to Collaborate**: 오픈소스 프로젝트 및 백엔드 개발 관련 협업
 - 💬 **Ask me about**: Java, Spring Boot, Database Design, API Development
@@ -109,7 +93,7 @@ graph TD
 ## 📫 Let's Connect!
 
 <div align="center">
-  
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jominjun1)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
@@ -120,7 +104,7 @@ graph TD
 ---
 
 <div align="center">
-  
+
 ### ☕ Coffee Time!
 > "Life is too short for bad coffee and bad code" ☕
 
