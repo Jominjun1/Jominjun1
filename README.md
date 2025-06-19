@@ -1,5 +1,8 @@
+<div align="center">
 <!-- header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&width=2000&section=header&text=MinJun's%20GitHub&fontSize=60&fontAlignY=35&desc=Backend%20Developer%20|%20Coffee%20Enthusiast&descAlignY=55&descAlign=60" />
+
+</div>
 
 <div align="center">
 
