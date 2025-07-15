@@ -32,6 +32,41 @@ public class MinJun {
 }
 ```
 
+## 🗂️ Portfolio Projects
+
+---
+
+### ☕ CoffeeAnalyze
+- **설명**: 다양한 커피 브랜드의 메뉴를 비교·분석할 수 있는 웹 애플리케이션
+- **주요 기술**: Spring Boot, Java, MySQL, Vue.js
+- **내 역할**: **팀장 / 백엔드 총괄** (API, DB 설계, AWS 배포)
+- [상세정보 보러가기](https://github.com/Jominjun1/coffee-analyze)
+
+---
+
+### 🍽️ FoodfixProject
+- **설명**: 포장/예약 주문과 매장 관리를 위한 웹/앱 서비스 (2024 캡스톤 장려상)
+- **주요 기술**: Spring Boot, Java, MySQL, React, Swift, Kotlin
+- **내 역할**: **팀장 / 백엔드 총괄** (주문/예약/매장 관리, DB, API, 인프라)
+- [상세정보 보러가기](https://github.com/Jominjun1/FoodfixProject)
+
+---
+
+### 🎮 DodgeGame
+- **설명**: Java Swing 기반 멀티플레이어 탄막 피하기 게임
+- **주요 기술**: Java, Swing, Socket API
+- **내 역할**: **팀장 / 게임 서버 및 로직 개발** (클라이언트-서버, 게임 로직)
+- [상세정보 보러가기](https://github.com/Jominjun1/DodgeGame)
+
+---
+
+### 🃏 BlackJack Card Game
+- **설명**: Java Swing 기반 블랙잭 카드 게임, 배경음악/승률/자동 셔플 등 다양한 기능 구현
+- **주요 기술**: Java, Swing, AWT, JLayer
+- **내 역할**: **개인 프로젝트 / 전체 개발** (게임 로직, UI, 음악)
+- [상세정보 보러가기](https://github.com/Jominjun1/BlackJackCardGame)
+
+
 ## 🛠️ Tech Stack
 
 ### Backend Development
