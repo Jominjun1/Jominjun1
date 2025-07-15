@@ -40,7 +40,7 @@ public class MinJun {
 - **설명**: 다양한 커피 브랜드의 메뉴를 비교·분석할 수 있는 웹 애플리케이션
 - **주요 기술**: Spring Boot, Java, MySQL, Vue.js
 - **내 역할**: **팀장 / 백엔드 총괄** (API, DB 설계, AWS 배포)
-- [상세정보 보러가기](https://github.com/Jominjun1/coffee-analyze)
+- [상세정보 보러가기](https://github.com/Jominjun1/CoffeeAnalyze)
 
 ---
 
@@ -49,6 +49,7 @@ public class MinJun {
 - **주요 기술**: Spring Boot, Java, MySQL, React, Swift, Kotlin
 - **내 역할**: **팀장 / 백엔드 총괄** (주문/예약/매장 관리, DB, API, 인프라)
 - [상세정보 보러가기](https://github.com/Jominjun1/FoodfixProject)
+- [백엔드 코드](https://github.com/Jominjun1/FoodfixProject/tree/spring)
 
 ---
 
