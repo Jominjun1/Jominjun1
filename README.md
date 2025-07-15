@@ -6,9 +6,9 @@
 
 <div align="center">
 
-# 👋 안녕하세요! Backend Developer MinJun입니다
+# 👋 안녕하세요! 백엔드 개발자 조민준입니다.
 
-**커피를 마시며 코드를 작성하는 백엔드 개발자** ☕
+**커피를 마시면서 집중하는 백엔드 개발자** ☕
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:simpers@naver.com.com)
 
@@ -22,7 +22,7 @@
 public class MinJun {
     private String name = "MinJun";
     private String role = "Backend Developer";
-    private String[] skills = {"Java", "Spring Boot", "MySQL", "AWS"};
+    private String[] skills = {"Java", "Spring Boot", "MySQL", ,"MariaDB" , "Oracle" , "AWS"};
     private String[] interests = {"Coffee", "Coding", "Learning"};
     
     public void introduce() {
@@ -38,14 +38,14 @@ public class MinJun {
 
 ### ☕ CoffeeAnalyze ( 개인 프로젝트 )
 - **설명**: 다양한 커피 브랜드의 메뉴를 비교·분석할 수 있는 웹 애플리케이션
-- **주요 기술**: Spring Boot, Java, MySQL, Vue.js
+- **주요 기술**: Spring Boot, Java, MySQL, Vue.js , Node.js
 - [상세정보 보러가기](https://github.com/Jominjun1/CoffeeAnalyze)
 
 ---
 
 ### 🍽️ FoodfixProject ( 팀 프로젝트- 백엔드 담당 )
 - **설명**: 포장/예약 주문과 매장 관리를 위한 웹/앱 서비스 (2024 캡스톤 장려상)
-- **주요 기술**: Spring Boot, Java, MySQL, React, Swift, Kotlin
+- **주요 기술**: Spring Boot, Java, MySQL, AWS RC2 , AWS EC2 [백엔드] ,  React, Swift, Kotlin  [프론트] 
 - [상세정보 보러가기](https://github.com/Jominjun1/FoodfixProject)
 - [백엔드 코드](https://github.com/Jominjun1/FoodfixProject/tree/spring)
 
