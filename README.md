@@ -69,7 +69,7 @@ public class MinJun {
 - **설명**: 스마트 태그의 생명주기 전반을 관리하는 사내 인트라넷 시스템 (재고관리, AS이력, 프로젝트관리, 일일보고서)
 - **주요 기술**: Spring Boot, Java 21, Spring Security, JWT, MariaDB, Vue.js [3.0ver], Element Plus
 - **핵심 기능**: 태그 재고관리, 처리단계 추적, AS이력관리, 버전관리, 사용자인증, 프로젝트관리, 일일보고서
-- [상세정보 보러가기](https://github.com/Jominjun1/TAG_DEV)
+- [상세정보 보러가기](https://github.com/Jominjun1/intranet)
 
 ## 🛠️ Tech Stack
 
