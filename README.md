@@ -22,7 +22,7 @@
 public class MinJun {
     private String name = "MinJun";
     private String role = "Backend Developer";
-    private String[] skills = {"Java", "Spring Boot", "MySQL", ,"MariaDB" , "Oracle" , "AWS"};
+    private String[] skills = {"Java", "Spring Boot", "MySQL", "MariaDB", "Oracle", "AWS"};
     private String[] interests = {"Coffee", "Coding", "Learning"};
     
     public void introduce() {
@@ -38,14 +38,14 @@ public class MinJun {
 
 ### ☕ CoffeeAnalyze ( 개인 프로젝트 )
 - **설명**: 다양한 커피 브랜드의 메뉴를 비교·분석할 수 있는 웹 애플리케이션
-- **주요 기술**: Spring Boot, Java, MySQL, Vue.js , Node.js
+- **주요 기술**: Spring Boot, Java, MySQL, Vue.js, Node.js
 - [상세정보 보러가기](https://github.com/Jominjun1/CoffeeAnalyze)
 
 ---
 
 ### 🍽️ FoodfixProject ( 팀 프로젝트- 백엔드 담당 )
 - **설명**: 포장/예약 주문과 매장 관리를 위한 웹/앱 서비스 (2024 캡스톤 장려상)
-- **주요 기술**: Spring Boot, Java, MySQL, AWS RC2 , AWS EC2 [백엔드] ,  React, Swift, Kotlin  [프론트] 
+- **주요 기술**: Spring Boot, Java, MySQL, AWS RC2, AWS EC2 [백엔드], React, Swift, Kotlin [프론트]
 - [상세정보 보러가기](https://github.com/Jominjun1/FoodfixProject)
 - [백엔드 코드](https://github.com/Jominjun1/FoodfixProject/tree/spring)
 
@@ -63,6 +63,13 @@ public class MinJun {
 - **주요 기술**: Java, Swing, AWT, JLayer
 - [상세정보 보러가기](https://github.com/Jominjun1/BlackJackCardGame)
 
+---
+
+### 🏷️ TEIA 인트라넷 개발 ( 회사 프로젝트 - 백엔드 개발 담당 )
+- **설명**: 스마트 태그의 생명주기 전반을 관리하는 사내 인트라넷 시스템 (재고관리, AS이력, 프로젝트관리, 일일보고서)
+- **주요 기술**: Spring Boot, Java 21, Spring Security, JWT, MariaDB, Vue.js, Element Plus
+- **핵심 기능**: 태그 재고관리, 처리단계 추적, AS이력관리, 버전관리, 사용자인증, 프로젝트관리, 일일보고서
+- [상세정보 보러가기](https://github.com/Jominjun1/TAG_DEV)
 
 ## 🛠️ Tech Stack
 
@@ -74,10 +81,12 @@ public class MinJun {
 
 ### Database & Cloud
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### Tools & IDE
+### Frontend & Tools
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
